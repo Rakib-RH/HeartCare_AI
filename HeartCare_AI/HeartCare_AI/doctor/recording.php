@@ -1,0 +1,1 @@
+<?php require_once __DIR__ . '/../config/config.php'; require_login('doctor'); require_once __DIR__ . '/../partials/header.php'; ?><h2>Clinical Review</h2><?php require_once __DIR__ . '/../partials/footer.php'; ?>
